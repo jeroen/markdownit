@@ -1,0 +1,15 @@
+Package: markdownit
+Type: Package
+Title: Bindings to 'markdown-it' parser
+Version: 0.1
+Date: 2015-05-23
+Author: Jeroen Ooms
+Maintainer: Jeroen Ooms <jeroen.ooms@stat.ucla.edu>
+Description: Markdown-it is a Markdown parser done right. Fast and easy to extend.
+License: MIT + file LICENSE
+URL: https://github.com/jeroenooms/markdownit
+BugReports: https://github.com/jeroenooms/markdownit/issues
+VignetteBuilder: knitr
+Imports: V8 (>= 0.6)
+Suggests:
+    knitr
